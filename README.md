@@ -15,12 +15,11 @@ The script allows you to select text, like "DC2C-14, DC2C-15, DC2C-17 and that o
 
 1.  Download the following zip [https://github.com/abradner/jira_automator/zipball/master]
 2.  Unzip the file to ~/Library/Services using a command similar to the following (this should move in a new version and clean up the download):
-```
-unzip -o ~/Downloads/abradner-jira_automator-*.zip
-cp -r ~/Downloads/abradner-jira_automator-*/ ~/Library/Services/
-rm -r ~/Downloads/abradner-jira_automator-*/
-rm ~/Downloads/abradner-jira_automator-*.zip
-```
+
+    unzip -o ~/Downloads/abradner-jira_automator-*.zip
+    cp -r ~/Downloads/abradner-jira_automator-*/ ~/Library/Services/
+    rm -r ~/Downloads/abradner-jira_automator-*/
+    rm ~/Downloads/abradner-jira_automator-*.zip
      
 
 # In use
